@@ -1,2 +1,2 @@
-# deep-learning-
-this was the some information
+# deep-learning-here you can get basic codes of deep learning in simple way.
+
